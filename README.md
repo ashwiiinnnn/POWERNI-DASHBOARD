@@ -6,7 +6,7 @@ Data Nerds! This repository is a collection of Power BI dashboards I've develope
 
 Explore the dashboards below. Each has its own dedicated README with more details on the build process and specific features.
 
-### 📉 Data Jobs Dashboard (V1 - Comprehensive Exploration)
+# 📉 Data Jobs Dashboard (V1 - Comprehensive Exploration) #
 
 ![Data Jobs DB](IMAGE/a.png)
 
@@ -24,3 +24,22 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * ➡️ Drill-Through Functionality
 
 [*VIEW PROJECT DETAILS*](/DATA%20JOBS%20V1/READ%20ME.md)
+
+# 📉 Data Jobs Dashboard V2 #
+
+![DATA JOBS DASHBOARD V2](image/Screenshot%202026-09-23%20021513.png)
+
+**Key Power BI Skills Utilized (demonstrating progression):**
+
+* 🎨 Advanced Dashboard Design (Single-Page UX & Optimization)
+* ⚙️ Complex Power Query Transformations
+* 🔗 Star Schema Data Modeling Principles
+* 🧮 Explicit DAX Measures (e.g., `CALCULATE`, context modifiers)
+* 📊 Dynamic Visualizations (driven by Parameters/Slicers)
+* ⚙️ Field & Numeric Parameter Implementation for "What-If" Analysis
+* 🗺️ Enhanced Geospatial Insights
+* 🔢 Advanced Card Visualizations
+* 🖱️ Optimized Slicers & Advanced Cross-Filtering Techniques
+* ✨ Report Performance Considerations
+
+[** View Full Project 2 **](/DATA%20JOBS%20V2/README.md)
